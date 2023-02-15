@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
   <h1 align="center">Opa 👋, Me chamo Gabriel Bessa</h1>
-  <h3 align="center">Um desenvolvedor Backend do Brasil</h3>
+  <h3 align="center">Um desenvolvedor FullStack do Brasil</h3>
 </div>
 
 <br>
