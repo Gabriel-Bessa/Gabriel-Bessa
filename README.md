@@ -9,6 +9,8 @@
   <h4 align="left">Tecnologias Backend já conhecidas</h4>
   <img align="left" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img align="left" src="https://img.shields.io/badge/go-4D97FF?style=for-the-badge&logo=go&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 <br>
