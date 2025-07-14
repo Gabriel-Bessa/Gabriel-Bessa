@@ -19,8 +19,6 @@
   <img align="left" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/K3S-%23DD0031.svg?&style=for-the-badge&logo=k3s&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/Github-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   
 </div>
 
@@ -29,6 +27,8 @@
   <h4 align="left">Tecnologias Devops já conhecidas</h4>
   <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/K3S-%23DD0031.svg?&style=for-the-badge&logo=k3s&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Github-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
 <br>
