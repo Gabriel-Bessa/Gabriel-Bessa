@@ -27,7 +27,7 @@
   <h4 align="left">Tecnologias Devops já conhecidas</h4>
   <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/K3S-%23DD0031.svg?&style=for-the-badge&logo=k3s&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/K3S-ffff00?style=for-the-badge&logo=k3s&logoColor=black" />
   <img align="left" src="https://img.shields.io/badge/Github%20Actions-005571?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
